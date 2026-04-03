@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated data
+*.jsonl
+*.jsonl.partial
+
+# Logs
+*.log
+
+# References (extracted ebook text)
+gardener/references/
+
+# Environment
+.env
+.venv/
